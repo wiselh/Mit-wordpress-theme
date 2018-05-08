@@ -4,9 +4,7 @@ Author: Wisekim
 Author URI: http://www.youtube.com/user/wisekimvevo
 Version: 1.0
 */
-#wpadminbar{
-	display: none;
-}
+
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
